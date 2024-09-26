@@ -1,10 +1,10 @@
 ﻿
-<h1 style="text-align:center;border:0px;margin:0px;padding:5px">Web Comercial .Net framework</h1>
+<h1 style="text-align:center;border:0px;margin:0px;padding:5px" align="center">Web Comercial .Net framework</h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <section>
     <header >
-        <h2 style="text-align:center;border:0px;margin:0px;padding:5px">Ingreso a la aplicación</h2>
+        <h2 style="text-align:center;border:0px;margin:0px;padding:5px" align="center">Ingreso a la aplicación</h2>
     </header>
 
     🔹 Ingreso a la aplicación
@@ -19,7 +19,7 @@
 <div style="border-bottom:2px solid #ff7514;"></div>
 <section>
     <header >
-        <h2 style="text-align:center;border:0px;margin:0px;padding:5px">Indice Administrador</h2>
+        <h2 style="text-align:center;border:0px;margin:0px;padding:5px" align="center">Indice Administrador</h2>
     </header>
 
     🔸 Listar / Modificar Clientes
@@ -81,7 +81,7 @@
 <div style="border-bottom:2px solid #1E90FF;"></div>
 <section>
     <header >
-        <h2 style="text-align:center;border:0px;margin:0px;padding:5px">Indice Cliente</h2>
+        <h2 style="text-align:center;border:0px;margin:0px;padding:5px" align="center">Indice Cliente</h2>
     </header>
 
     🔹 Comprar Productos
@@ -126,7 +126,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <section>
     <header >
-        <h2 style="text-align:center;border:0px;margin:0px;padding:5px">DB - SQL SERVER</h2>
+        <h2 style="text-align:center;border:0px;margin:0px;padding:5px" align="center">DB - SQL SERVER</h2>
     </header>
     
 ![BBDD image](/Muestra/DB/BD%20SQL.PNG)
